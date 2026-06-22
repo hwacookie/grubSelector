@@ -1,7 +1,3 @@
-Hier ist das vollständige, aktualisierte Dokument. Es enthält nun die gesamte Architektur, inklusive der neuen Matrix für Short-, Double- und Long-Press, gebündelt in einem sauberen, englischsprachigen Guide, den du direkt für dein Repository oder deine Notizen verwenden kannst.
-
----
-
 # Headless PC Multi-OS Hardware Boot Selector
 
 This document outlines the architecture, hardware wiring, and software implementation of a completely headless, bidirectional hardware boot selector. It allows switching between multiple operating systems using a physical rotary switch, initiating graceful or forced reboots from within the running OS via a multi-action push-button, and communicating with the GRUB bootloader via hardware LED signals.
